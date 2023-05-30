@@ -1,13 +1,13 @@
 @font-face {
-  font-family: PostDiplom;
-  src: url("PostDiplom-Regular.otf");
+  font-family: PostAntikva;
+  src: url("PostAntikva-Plain.otf");
 }
 
 #main {
-  margin: 3em 6em;
+  margin: 4em 8em;
   word-wrap: nowrap;
 
-  font-family: PostDiplom;
+  font-family: PostAntikva;
   font-size: 16pt;
 }
 
